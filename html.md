@@ -1,7 +1,3 @@
-# Front-end-Practices
-Describing what my best practices are.
-
-
 # HTML Best Practice Coding Guidelines
 
 ### W3C Standards
