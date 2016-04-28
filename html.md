@@ -8,7 +8,7 @@ https://validator.w3.org/
 ### HTML Layout
 All of your HTML should be well formed using the relevant HTML5 tags available ie. 
 ```html
-<header>, <nav>, <main>, <article>, <section>, <aside>, <footer>.
+<header>, <nav>, <main>, <article>, <section>, <aside>, <footer>
 ```
 
 ### Javascript Files

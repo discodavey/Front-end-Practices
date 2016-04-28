@@ -1,6 +1,6 @@
 This is my repository for what I use for my Front End Development Standards.
 
-If you disagree then please feel free to let me know.
+If you have an opinion on these then please feel free to let me know.
 
 ###Sections
 
@@ -8,4 +8,4 @@ If you disagree then please feel free to let me know.
 - [CSS](css.md)
 
 
-To come are responsive and images
+Responsive and Images are to come soon.
