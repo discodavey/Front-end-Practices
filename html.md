@@ -9,6 +9,7 @@ https://validator.w3.org/
 All of your HTML should be well formed using the relevant HTML5 tags available ie. 
 ```html
 <header>, <nav>, <main>, <article>, <section>, <aside>, <footer>.
+```
 
 ### Javascript Files
 Unless there is a valid reason, you should place all of the Javascript Files and Libaries just before the end </body> tag so they are the last files to run when the page loads.
