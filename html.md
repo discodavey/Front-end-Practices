@@ -59,7 +59,7 @@ You can use Aria Roles but it depends on what you are doing with the site. Aria 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Adding HTML5 SHIV for fallback for older browsers -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 
     </head>
     <body>
