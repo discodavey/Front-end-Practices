@@ -41,7 +41,7 @@ A reference guide is available on W3C - https://www.w3.org/WAI/WCAG20/quickref/
 If the site you are building has to conform to Level 2 then make sure the design foreground (text) and background colours pass the relevant tests. Discuss with the PM and Designer if it has been placed in the spec and the designs have already been signed off.
 
 * Colour Contrast (1.4.3) - You can test the colour ratios - http://juicystudio.com/services/luminositycontrastratio.php
-* Images of Text (1.4.5) - Do not use images of text unless essential i.e. Company Logo
+* Images of Text (1.4.5) - Do not use text in images unless essential i.e. Company Logo
 * Consistent Navigation (3.2.3)
 
 
